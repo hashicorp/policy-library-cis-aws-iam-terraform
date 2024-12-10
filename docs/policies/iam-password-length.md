@@ -18,7 +18,7 @@ Password policies, in part, enforce password complexity requirements. Use IAM pa
 
 CIS recommends that the password policy require a minimum password length of 14 characters. Setting a password complexity policy increases account resiliency against brute force login attempts.
 
-This rule is covered by the [iam-ensure-password-length-policy](../../policies/iam-ensure-password-length-policy.sentinel) policy.
+This rule is covered by the [iam-ensure-password-length-policy](https://github.com/hashicorp/policy-library-cis-aws-iam-terraform/blob/main/policies/iam-ensure-password-length-policy.sentinel) policy.
 
 ## Policy Results (Pass)
 ```bash

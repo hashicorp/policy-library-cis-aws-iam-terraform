@@ -18,7 +18,7 @@ Password policies, in part, enforce password complexity requirements. Use IAM pa
 
 CIS recommends that the password policy require at least one symbol. Setting a password complexity policy increases account resiliency against brute force login attempts.
 
-This rule is covered by the [iam-password-symbols](../../policies/iam-password-symbols.sentinel).
+This rule is covered by the [iam-password-symbols](https://github.com/hashicorp/policy-library-cis-aws-iam-terraform/blob/main/policies/iam-password-symbols.sentinel).
 
 ## Policy Results (Pass)
 ```bash
